@@ -1,0 +1,8 @@
+% m3makefile for LNPlugin
+% Compilation: type "cm3" in the root directory
+
+import ("libm3")
+
+implementation ("LNplugin")
+program ("lnplugin")
+
